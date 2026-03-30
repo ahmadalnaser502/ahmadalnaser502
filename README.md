@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-[cite_start]I am a **DevOps & MLOps Engineer** with over 3 years of experience in designing, automating, and managing scalable infrastructure across cloud and on-premise environments[cite: 5]. [cite_start]I started as an intern at **Realsoft Advanced Applications** and progressed into a full DevOps role contributing to multiple production systems[cite: 11, 13].
+I am a **DevOps & MLOps Engineer** with over 3 years of experience in designing, automating, and managing scalable infrastructure across cloud and on-premise environments[cite: 5]. [cite_start]I started as an intern at **Realsoft Advanced Applications** and progressed into a full DevOps role contributing to multiple production systems[cite: 11, 13].
 
 [cite_start]I bridge the gap between software development, IT operations, and machine learning workflows to ensure reliable and efficient system delivery[cite: 35]. [cite_start]Passionate about **automation**, **cloud-native technologies**, and continuously improving deployment reliability and system performance[cite: 8].
 
