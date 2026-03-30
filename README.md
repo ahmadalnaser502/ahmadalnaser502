@@ -102,7 +102,7 @@ I bridge the gap between software development, IT operations, and machine learni
 ## 🎓 Education
 
 **Bachelor of Engineering — Electrical Engineering** *(GPA: Very Good)* 
-University of Jordan — Amman, Jordan &nbsp;|&nbsp; [cite_start]*2017 – 2022* 
+University of Jordan — Amman, Jordan &nbsp;|&nbsp; *2017 – 2022* 
 
 ---
 
