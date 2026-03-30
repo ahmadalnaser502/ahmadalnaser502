@@ -42,7 +42,7 @@ I bridge the gap between software development, IT operations, and machine learni
 
 ### 🤖 MLOps & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-`LLM Fine-tuning` `Containerized AI Deployments` `Model Optimization`
+`LLM Fine-tuning` `Containerized AI Deployments`
 
 ### 📊 Monitoring & Logging
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
