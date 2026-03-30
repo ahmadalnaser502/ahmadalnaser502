@@ -108,9 +108,6 @@ I bridge the gap between software development, IT operations, and machine learni
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadalnaser502&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalnaser502&layout=compact&theme=dark&hide_border=true)
-
 *"Automate everything. Document everything. Break nothing in production."*
 
 </div>
