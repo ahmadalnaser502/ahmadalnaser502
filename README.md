@@ -13,9 +13,9 @@
 
 ## 🧑‍💻 About Me
 
-I am a **DevOps & MLOps Engineer** with over 3 years of experience in designing, automating, and managing scalable infrastructure across cloud and on-premise environments[cite: 5]. [cite_start]I started as an intern at **Realsoft Advanced Applications** and progressed into a full DevOps role contributing to multiple production systems[cite: 11, 13].
+I am a **DevOps & MLOps Engineer** with over 3 years of experience in designing, automating, and managing scalable infrastructure across cloud and on-premise environments. I started as an intern at **Realsoft Advanced Applications** and progressed into a full DevOps role contributing to multiple production systems.
 
-I bridge the gap between software development, IT operations, and machine learning workflows to ensure reliable and efficient system delivery[cite: 35]. Passionate about **automation**, **cloud-native technologies**, and continuously improving deployment reliability and system performance[cite: 8].
+I bridge the gap between software development, IT operations, and machine learning workflows to ensure reliable and efficient system delivery. Passionate about **automation**, **cloud-native technologies**, and continuously improving deployment reliability and system performance.
 
 ---
 
@@ -63,15 +63,15 @@ I bridge the gap between software development, IT operations, and machine learni
 ## 💼 Work Experience
 
 ### DevOps Engineer / System Administrator
-**Realsoft Advanced Applications** — Amman, Jordan &nbsp;|&nbsp; [cite_start]*Aug 2022 – Present* [cite: 10, 11, 12]
+**Realsoft Advanced Applications** — Amman, Jordan &nbsp;|&nbsp; *Aug 2022 – Present* 
 
-- 🔧 Designed and implemented **CI/CD pipelines using Jenkins**, improving deployment speed and reliability[cite: 15].
-- 🐳 Containerized applications using **Docker**, managed workloads via **Docker Swarm** and **Kubernetes**[cite: 16].
-- 📊 Monitored systems using **Prometheus & Grafana**, reducing downtime through proactive alerting[cite: 17].
-- ⚙️ Automated system tasks using shell scripting, improving operational efficiency[cite: 17].
-- 🤖 Fine-tuned and deployed AI models (ISIC / ISCO / ICD-10 classifiers) using Python and containerization[cite: 35].
-- ☁️ Managed cloud infrastructure on **Microsoft Azure** and **AWS**[cite: 18].
-- 🎓 Delivered **AZ-900 training workshops** for the Ministry of Digital Economy[cite: 19].
+- 🔧 Designed and implemented **CI/CD pipelines using Jenkins**, improving deployment speed and reliability.
+- 🐳 Containerized applications using **Docker**, managed workloads via **Docker Swarm** and **Kubernetes**.
+- 📊 Monitored systems using **Prometheus & Grafana**, reducing downtime through proactive alerting.
+- ⚙️ Automated system tasks using shell scripting, improving operational efficiency.
+- 🤖 Fine-tuned and deployed AI models (ISIC / ISCO / ICD-10 classifiers) using Python and containerization.
+- ☁️ Managed cloud infrastructure on **Microsoft Azure** and **AWS**.
+- 🎓 Delivered **AZ-900 training workshops** for the Ministry of Digital Economy.
 
 ---
 
@@ -79,11 +79,11 @@ I bridge the gap between software development, IT operations, and machine learni
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| **Adaa Application** | [cite_start]Containerized services and managed deployments via Docker Swarm[cite: 22]. | Docker · Swarm · Git · TFS |
-| **Al-Khwarizmi App** | [cite_start]Managed IIS-hosted apps and automated updates via Jenkins[cite: 24, 25]. | IIS · PM2 · Jenkins |
-| **RealData Portal** | [cite_start]Deployed and maintained cloud infrastructure on Azure[cite: 27]. | Microsoft Azure |
-| **Sawtak Application** | [cite_start]Deployed application on AWS ECS and managed MySQL databases[cite: 30, 31]. | AWS ECS · MySQL |
-| **AI Use Cases** | [cite_start]Fine-tuned AI models for specialized classification tasks[cite: 35]. | Python · Docker |
+| **Adaa Application** | Containerized services and managed deployments via Docker Swarm. | Docker · Swarm · Git · TFS |
+| **Al-Khwarizmi App** | Managed IIS-hosted apps and automated updates via Jenkins. | IIS · PM2 · Jenkins |
+| **RealData Portal** | Deployed and maintained cloud infrastructure on Azure. | Microsoft Azure |
+| **Sawtak Application** | Deployed application on AWS ECS and managed MySQL databases. | AWS ECS · MySQL |
+| **AI Use Cases** | Fine-tuned AI models for specialized classification tasks. | Python · Docker |
 
 ---
 
@@ -91,25 +91,25 @@ I bridge the gap between software development, IT operations, and machine learni
 
 | Badge | Certification |
 |-------|--------------|
-| ☁️ | AWS Certified Cloud Practitioner **(CLF-C02)** [cite: 51] |
-| ☁️ | Microsoft Azure Fundamentals **(AZ-900)** [cite: 51] |
-| 💼 | Microsoft 365 Fundamentals **(MS-900)** [cite: 51] |
-| 🤖 | Google Generative AI Leader **(GAIL)** [cite: 52] |
-| 🎓 | Training of Trainers **(TOT)** [cite: 52] |
+| ☁️ | AWS Certified Cloud Practitioner **(CLF-C02)**  |
+| ☁️ | Microsoft Azure Fundamentals **(AZ-900)**  |
+| 💼 | Microsoft 365 Fundamentals **(MS-900)**  |
+| 🤖 | Google Generative AI Leader **(GAIL)**  |
+| 🎓 | Training of Trainers **(TOT)**  |
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering — Electrical Engineering** *(GPA: Very Good)* [cite: 47, 48]
-University of Jordan — Amman, Jordan &nbsp;|&nbsp; [cite_start]*2017 – 2022* [cite: 46, 49]
+**Bachelor of Engineering — Electrical Engineering** *(GPA: Very Good)* 
+University of Jordan — Amman, Jordan &nbsp;|&nbsp; [cite_start]*2017 – 2022* 
 
 ---
 
 ## 🌍 Languages
 
-- 🇸🇦 **Arabic** — Native / Fluent [cite: 54]
-- 🇬🇧 **English** — Intermediate (Improving toward professional proficiency) [cite: 55]
+- 🇸🇦 **Arabic** — Native / Fluent 
+- 🇬🇧 **English** — Intermediate (Improving toward professional proficiency) 
 
 ---
 
