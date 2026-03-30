@@ -1,49 +1,126 @@
-# 👋 Hi, I'm Ahmad Naser
-### DevOps Engineer | Infrastructure Automation | AI & MLOps 🚀
+<div align="center">
 
-[cite_start]I am a **DevOps Engineer** with over 3 years of experience in designing, automating, and managing scalable infrastructure across cloud and on-premise environments[cite: 5]. [cite_start]I specialize in **CI/CD**, containerization, and **Infrastructure as Code (IaC)**, with a proven track record of improving deployment reliability and system performance[cite: 6, 7].
+# Hi, I'm Ahmad Naser 👋
+### DevOps Engineer | Cloud Infrastructure | Automation
 
----
+📍 Amman, Jordan &nbsp;|&nbsp; 📧 ahmad.alnaser502@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 
-### 🛠 Technical Stack
-* [cite_start]**Cloud Platforms:** AWS (Cloud Practitioner), Microsoft Azure (AZ-900)[cite: 37, 51].
-* [cite_start]**Containers & Orchestration:** Docker, Kubernetes, Docker Swarm[cite: 38].
-* [cite_start]**CI/CD & Version Control:** Jenkins, Git, TFS 2018[cite: 22, 39].
-* [cite_start]**Automation & Scripting:** Python, Bash[cite: 40].
-* [cite_start]**Monitoring:** Prometheus, Grafana[cite: 41].
-* [cite_start]**Databases:** MySQL, Oracle[cite: 43].
+</div>
 
 ---
 
-### 💼 Professional Experience
-**DevOps Engineer / System Administrator | Realsoft Advanced Applications**
-[cite_start]*Amman, Jordan (Aug 2022 – Present)* [cite: 10, 11, 12]
+## 🧑‍💻 About Me
 
-* [cite_start]Designed and implemented **CI/CD pipelines** using Jenkins to optimize deployment speed and reliability[cite: 15].
-* [cite_start]Containerized services using **Docker** and managed workloads via **Docker Swarm and Kubernetes**[cite: 16].
-* [cite_start]Automated system tasks using **Shell scripting** to improve operational efficiency[cite: 17].
-* [cite_start]Reduced downtime through proactive alerting and monitoring using **Prometheus and Grafana**[cite: 17].
-* [cite_start]Delivered **AZ-900 training workshops** for the Ministry of Digital Economy[cite: 19].
+DevOps Engineer with **3+ years of experience** designing, automating, and managing scalable infrastructure across cloud and on-prem environments. Started as an intern at Realsoft Advanced Applications and progressed into a full DevOps role contributing to multiple production systems.
+
+Passionate about **automation**, **cloud-native technologies**, and continuously improving deployment reliability and system performance.
 
 ---
 
-### 🚀 Key Projects
-* [cite_start]**Adaa & Sawtak Applications:** Containerized services and integrated CI/CD pipelines, deploying on **AWS ECS** and Docker Swarm[cite: 22, 30].
-* [cite_start]**Al-Khwarizmi Application:** Automated deployments via Jenkins for consistent and reliable updates[cite: 25].
-* [cite_start]**AI Use Cases:** Fine-tuned and deployed AI models using **Python** and containerization[cite: 35].
-* [cite_start]**RealData Portal:** Deployed and maintained cloud infrastructure on **Microsoft Azure**[cite: 27].
+## 🛠️ Technical Skills
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat&logo=docker&logoColor=white)
+
+### ⚡ CI/CD & Version Control
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+
+### 📊 Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+### 🖥️ Operating Systems & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### 🗄️ Databases & Networking
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+`TCP/IP` `DNS` `VPN`
 
 ---
 
-### 📜 Certifications
-* [cite_start]**AWS:** Certified Cloud Practitioner (CLF-C02)[cite: 51].
-* [cite_start]**Microsoft:** Azure Fundamentals (AZ-900) and 365 Fundamentals (MS-900)[cite: 51].
-* [cite_start]**Google:** Generative AI Leader (GAIL)[cite: 52].
+## 💼 Work Experience
+
+### DevOps Engineer / System Administrator
+**Realsoft Advanced Applications** — Amman, Jordan &nbsp;|&nbsp; *Aug 2022 – Present*
+
+- 🔧 Designed and implemented **CI/CD pipelines using Jenkins**, improving deployment speed and reliability
+- ☁️ Automated infrastructure provisioning using **Terraform on AWS**
+- 🐳 Containerized applications using **Docker**, managed workloads via **Docker Swarm** and **Kubernetes**
+- 📊 Monitored systems using **Prometheus & Grafana**, reducing downtime through proactive alerting
+- ⚙️ Automated system tasks using **Ansible** and shell scripting
+- 🌐 Managed cloud infrastructure on **Microsoft Azure** and **AWS**
+- 🎓 Delivered **AZ-900 training workshops** for the Ministry of Digital Economy
 
 ---
 
-### 📫 Connect with me
-* [cite_start]**Email:** ahmad.alnaser502@gmail.com [cite: 3]
-* [cite_start]**Location:** Amman, Jordan [cite: 3]
-* **LinkedIn:** [linkedin.com/in/AhmadNaser](https://www.linkedin.com)
-* **YouTube:** [AgnosticOps](https://www.youtube.com)
+## 🚀 Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **Adaa Application** | Containerized services and managed deployments | Docker · Docker Swarm · Git · TFS 2018 |
+| **Al-Khwarizmi Application** | Managed IIS apps, automated deployments | PM2 · Jenkins |
+| **RealData Portal** | Cloud infrastructure deployment and optimization | Microsoft Azure |
+| **Sawtak Application** | Built infrastructure and automated deployment workflows | Terraform · AWS · MySQL |
+| **JMD Weather Data** | Database administration and data processing | Oracle DB · APEX · SQL |
+| **AI Use Cases** | Fine-tuned and deployed AI models | Python · Docker |
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Electrical Engineering** *(Very Good)*
+University of Jordan — Amman, Jordan &nbsp;|&nbsp; *2017 – 2022*
+
+---
+
+## 📜 Certifications
+
+| Badge | Certification |
+|-------|--------------|
+| ☁️ | Microsoft Azure Fundamentals **(AZ-900)** |
+| ☁️ | AWS Cloud Practitioner **(CLF-C02)** |
+| 💼 | Microsoft 365 Fundamentals **(MS-900)** |
+| 🤖 | Google Generative AI Leader **(GAIL)** |
+| 🎓 | Training of Trainers **(TOT)** |
+
+---
+
+## 🌍 Languages
+
+- 🇸🇦 **Arabic** — Native / Fluent
+- 🇬🇧 **English** — Intermediate (Improving toward professional proficiency)
+
+---
+
+## 📂 Portfolio Projects
+
+> *Coming soon — building a hands-on DevOps portfolio with real-world pipelines*
+
+| Repository | Description | Status |
+|------------|-------------|--------|
+| 🔜 project-01-webapp-devops | Full CI/CD pipeline with Docker, K8s & Terraform | 🔄 In Progress |
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true)
+
+*"Automate everything. Document everything. Break nothing in production."*
+
+</div>
