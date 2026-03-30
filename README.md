@@ -83,8 +83,8 @@ I bridge the gap between software development, IT operations, and machine learni
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| 📁 **[devops-mastery-labs](https://github.com/ahmadalnaser502)** | My main hub for Linux, Docker, and K8s hands-on exercises. | 🛠️ Active |
-| 📁 **[project-mlops-automated](https://github.com/ahmadalnaser502)** | End-to-end MLOps pipeline for AI model deployment. | 🏗️ In Progress |
+| 📁 first project  |
+| 📁 |
 
 ---
 
