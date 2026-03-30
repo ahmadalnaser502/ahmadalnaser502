@@ -1,122 +1,122 @@
-<div align="center">
+<dv lgn="n">
 
-# Hi, I'm Ahmad Naser 👋
-### DevOps & MLOps Engineer | Cloud Infrastructure | System Administrator 🚀
+# H, I'm Ahmd N 👋
+### DvOp & MLOp Engn | Cloud Infuu | Sym Admno 🚀
 
-📍 Amman, Jordan &nbsp;|&nbsp; 📧 ahmad.alnaser502@gmail.com &nbsp;|&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-naser-naser/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AgnosticOps)
+📍 Ammn, Jodn &nbp;|&nbp; 📧 hmd.ln502@gml.om &nbp;|&nbp;
+[![LnkdIn](hp://mg.hld.o/bdg/LnkdIn-0A66C2?yl=fl&logo=lnkdn&logoColo=wh)](hp://www.lnkdn.om/n/hmd-n-n/)
+[![YouTub](hp://mg.hld.o/bdg/YouTub-FF0000?yl=fl&logo=youub&logoColo=wh)](hp://www.youub.om/@AgnoOp)
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-[cite_start]I am a **DevOps & MLOps Engineer** with over 3 years of experience in designing, automating, and managing scalable infrastructure across cloud and on-premise environments[cite: 5]. [cite_start]I started as an intern at **Realsoft Advanced Applications** and progressed into a full DevOps role contributing to multiple production systems[cite: 11, 13].
-
-[cite_start]I bridge the gap between software development, IT operations, and machine learning workflows to ensure reliable and efficient system delivery[cite: 35]. [cite_start]Passionate about **automation**, **cloud-native technologies**, and continuously improving deployment reliability and system performance[cite: 8].
+</dv>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧑‍💻 Abou M
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+[]I m  **DvOp & MLOp Engn** wh ov 3 y of xpn n dgnng, uomng, nd mngng lbl nfuu o loud nd on-pm nvonmn[: 5]. []I d  n nn  **Rlof Advnd Applon** nd pogd no  full DvOp ol onbung o mulpl poduon ym[: 11, 13].
 
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat&logo=docker&logoColor=white)
+[]I bdg h gp bwn ofw dvlopmn, IT opon, nd mhn lnng wokflow o nu lbl nd ffn ym dlvy[: 35]. []Pon bou **uomon**, **loud-nv hnolog**, nd onnuouly mpovng dploymn lbly nd ym pfomn[: 8].
 
-### ⚡ CI/CD & Version Control
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![TFS](https://img.shields.io/badge/TFS_2018-0078D7?style=flat&logo=azure-devops&logoColor=white)
+---
 
-### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+## 🛠️ Thnl Skll
 
-### 🤖 MLOps & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-`LLM Fine-tuning` `Containerized AI Deployments` `Model Optimization`
+### ☁️ Cloud Plfom
+![AWS](hp://mg.hld.o/bdg/AWS-FF9900?yl=fl&logo=mzon-w&logoColo=wh)
+![Azu](hp://mg.hld.o/bdg/MoofAzu-0089D6?yl=fl&logo=moof-zu&logoColo=wh)
 
-### 📊 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+### 🐳 Conn & Ohon
+![Dok](hp://mg.hld.o/bdg/Dok-2496ED?yl=fl&logo=dok&logoColo=wh)
+![Kubn](hp://mg.hld.o/bdg/Kubn-326CE5?yl=fl&logo=kubn&logoColo=wh)
+![Dok Swm](hp://mg.hld.o/bdg/DokSwm-2496ED?yl=fl&logo=dok&logoColo=wh)
 
-### 🖥️ Operating Systems & Scripting
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+### ⚡ CI/CD & Von Conol
+![Jnkn](hp://mg.hld.o/bdg/Jnkn-D24939?yl=fl&logo=jnkn&logoColo=wh)
+![G](hp://mg.hld.o/bdg/G-F05032?yl=fl&logo=g&logoColo=wh)
+![GHub Aon](hp://mg.hld.o/bdg/GHubAon-2088FF?yl=fl&logo=ghub-on&logoColo=wh)
+![TFS](hp://mg.hld.o/bdg/TFS2018-0078D7?yl=fl&logo=zu-dvop&logoColo=wh)
 
-### 🗄️ Databases & Networking
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+### 🏗️ Infuu  Cod
+![Tfom](hp://mg.hld.o/bdg/Tfom-7B42BC?yl=fl&logo=fom&logoColo=wh)
+![Anbl](hp://mg.hld.o/bdg/Anbl-EE0000?yl=fl&logo=nbl&logoColo=wh)
+
+### 🤖 MLOp & AI
+![Pyhon](hp://mg.hld.o/bdg/Pyhon-3776AB?yl=fl&logo=pyhon&logoColo=wh)
+`LLM Fn-unng` `Connzd AI Dploymn` `Modl Opmzon`
+
+### 📊 Monong & Loggng
+![Pomhu](hp://mg.hld.o/bdg/Pomhu-E6522C?yl=fl&logo=pomhu&logoColo=wh)
+![Gfn](hp://mg.hld.o/bdg/Gfn-F46800?yl=fl&logo=gfn&logoColo=wh)
+
+### 🖥️ Opng Sym & Spng
+![Lnux](hp://mg.hld.o/bdg/Lnux-FCC624?yl=fl&logo=lnux&logoColo=blk)
+![Wndow Sv](hp://mg.hld.o/bdg/WndowSv-0078D6?yl=fl&logo=wndow&logoColo=wh)
+![Bh](hp://mg.hld.o/bdg/Bh-4EAA25?yl=fl&logo=gnu-bh&logoColo=wh)
+
+### 🗄️ Db & Nwokng
+![MySQL](hp://mg.hld.o/bdg/MySQL-4479A1?yl=fl&logo=myql&logoColo=wh)
+![Ol](hp://mg.hld.o/bdg/Ol-F80000?yl=fl&logo=ol&logoColo=wh)
 `TCP/IP` `DNS` `VPN`
 
 ---
 
-## 💼 Work Experience
+## 💼 Wok Expn
 
-### DevOps Engineer / System Administrator
-**Realsoft Advanced Applications** — Amman, Jordan &nbsp;|&nbsp; [cite_start]*Aug 2022 – Present* [cite: 10, 11, 12]
+### DvOp Engn / Sym Admno
+**Rlof Advnd Applon** — Ammn, Jodn &nbp;|&nbp; []*Aug 2022 – Pn* [: 10, 11, 12]
 
-- [cite_start]🔧 Designed and implemented **CI/CD pipelines using Jenkins**, improving deployment speed and reliability[cite: 15].
-- [cite_start]🐳 Containerized applications using **Docker**, managed workloads via **Docker Swarm** and **Kubernetes**[cite: 16].
-- [cite_start]📊 Monitored systems using **Prometheus & Grafana**, reducing downtime through proactive alerting[cite: 17].
-- [cite_start]⚙️ Automated system tasks using shell scripting, improving operational efficiency[cite: 17].
-- [cite_start]🤖 Fine-tuned and deployed AI models (ISIC / ISCO / ICD-10 classifiers) using Python and containerization[cite: 35].
-- [cite_start]☁️ Managed cloud infrastructure on **Microsoft Azure** and **AWS**[cite: 18].
-- [cite_start]🎓 Delivered **AZ-900 training workshops** for the Ministry of Digital Economy[cite: 19].
+- []🔧 Dgnd nd mplmnd **CI/CD ppln ung Jnkn**, mpovng dploymn pd nd lbly[: 15].
+- []🐳 Connzd pplon ung **Dok**, mngd woklod v **Dok Swm** nd **Kubn**[: 16].
+- []📊 Monod ym ung **Pomhu & Gfn**, dung downm hough pov lng[: 17].
+- []⚙️ Auomd ym k ung hll png, mpovng oponl ffny[: 17].
+- []🤖 Fn-und nd dployd AI modl (ISIC / ISCO / ICD-10 lf) ung Pyhon nd onnzon[: 35].
+- []☁️ Mngd loud nfuu on **Moof Azu** nd **AWS**[: 18].
+- []🎓 Dlvd **AZ-900 nng wokhop** fo h Mny of Dgl Eonomy[: 19].
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Ky Poj
 
-| Project | Description | Tools |
+| Poj | Dpon | Tool |
 |---------|-------------|-------|
-| **Adaa Application** | [cite_start]Containerized services and managed deployments via Docker Swarm[cite: 22]. | Docker · Swarm · Git · TFS |
-| **Al-Khwarizmi App** | [cite_start]Managed IIS-hosted apps and automated updates via Jenkins[cite: 24, 25]. | IIS · PM2 · Jenkins |
-| **RealData Portal** | [cite_start]Deployed and maintained cloud infrastructure on Azure[cite: 27]. | Microsoft Azure |
-| **Sawtak Application** | [cite_start]Deployed application on AWS ECS and managed MySQL databases[cite: 30, 31]. | AWS ECS · MySQL |
-| **AI Use Cases** | [cite_start]Fine-tuned AI models for specialized classification tasks[cite: 35]. | Python · Docker |
+| **Ad Applon** | []Connzd v nd mngd dploymn v Dok Swm[: 22]. | Dok · Swm · G · TFS |
+| **Al-Khwzm App** | []Mngd IIS-hod pp nd uomd upd v Jnkn[: 24, 25]. | IIS · PM2 · Jnkn |
+| **RlD Pol** | []Dployd nd mnnd loud nfuu on Azu[: 27]. | Moof Azu |
+| **Swk Applon** | []Dployd pplon on AWS ECS nd mngd MySQL db[: 30, 31]. | AWS ECS · MySQL |
+| **AI U C** | []Fn-und AI modl fo plzd lfon k[: 35]. | Pyhon · Dok |
 
 ---
 
-## 📜 Certifications
+## 📜 Cfon
 
-| Badge | Certification |
+| Bdg | Cfon |
 |-------|--------------|
-| ☁️ | [cite_start]AWS Certified Cloud Practitioner **(CLF-C02)** [cite: 51] |
-| ☁️ | [cite_start]Microsoft Azure Fundamentals **(AZ-900)** [cite: 51] |
-| 💼 | [cite_start]Microsoft 365 Fundamentals **(MS-900)** [cite: 51] |
-| 🤖 | [cite_start]Google Generative AI Leader **(GAIL)** [cite: 52] |
-| 🎓 | [cite_start]Training of Trainers **(TOT)** [cite: 52] |
+| ☁️ | []AWS Cfd Cloud Pon **(CLF-C02)** [: 51] |
+| ☁️ | []Moof Azu Fundmnl **(AZ-900)** [: 51] |
+| 💼 | []Moof 365 Fundmnl **(MS-900)** [: 51] |
+| 🤖 | []Googl Gnv AI Ld **(GAIL)** [: 52] |
+| 🎓 | []Tnng of Tn **(TOT)** [: 52] |
 
 ---
 
-## 🎓 Education
+## 🎓 Eduon
 
-[cite_start]**Bachelor of Engineering — Electrical Engineering** *(GPA: Very Good)* [cite: 47, 48]
-University of Jordan — Amman, Jordan &nbsp;|&nbsp; [cite_start]*2017 – 2022* [cite: 46, 49]
-
----
-
-## 🌍 Languages
-
-- [cite_start]🇸🇦 **Arabic** — Native / Fluent [cite: 54]
-- [cite_start]🇬🇧 **English** — Intermediate (Improving toward professional proficiency) [cite: 55]
+[]**Bhlo of Engnng — Ell Engnng** *(GPA: Vy Good)* [: 47, 48]
+Unvy of Jodn — Ammn, Jodn &nbp;|&nbp; []*2017 – 2022* [: 46, 49]
 
 ---
 
-<div align="center">
+## 🌍 Lngug
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadalnaser502&show_icons=true&theme=dark&hide_border=true)
+- []🇸🇦 **Ab** — Nv / Flun [: 54]
+- []🇬🇧 **Englh** — Inmd (Impovng owd pofonl pofny) [: 55]
 
-*"Automate everything. Document everything. Break nothing in production."*
+---
 
-</div>
+<dv lgn="n">
+
+![GHub S](hp://ghub-dm-.vl.pp/p?unm=hmdln502&howon=u&hm=dk&hdbod=u)
+
+*"Auom vyhng. Doumn vyhng. Bk nohng n poduon."*
+
+</dv>
