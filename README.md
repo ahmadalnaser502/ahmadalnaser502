@@ -15,7 +15,7 @@
 
 I am a **DevOps & MLOps Engineer** with over 3 years of experience in designing, automating, and managing scalable infrastructure across cloud and on-premise environments[cite: 5]. [cite_start]I started as an intern at **Realsoft Advanced Applications** and progressed into a full DevOps role contributing to multiple production systems[cite: 11, 13].
 
-[cite_start]I bridge the gap between software development, IT operations, and machine learning workflows to ensure reliable and efficient system delivery[cite: 35]. [cite_start]Passionate about **automation**, **cloud-native technologies**, and continuously improving deployment reliability and system performance[cite: 8].
+I bridge the gap between software development, IT operations, and machine learning workflows to ensure reliable and efficient system delivery[cite: 35]. Passionate about **automation**, **cloud-native technologies**, and continuously improving deployment reliability and system performance[cite: 8].
 
 ---
 
@@ -65,13 +65,13 @@ I am a **DevOps & MLOps Engineer** with over 3 years of experience in designing,
 ### DevOps Engineer / System Administrator
 **Realsoft Advanced Applications** — Amman, Jordan &nbsp;|&nbsp; [cite_start]*Aug 2022 – Present* [cite: 10, 11, 12]
 
-- [cite_start]🔧 Designed and implemented **CI/CD pipelines using Jenkins**, improving deployment speed and reliability[cite: 15].
-- [cite_start]🐳 Containerized applications using **Docker**, managed workloads via **Docker Swarm** and **Kubernetes**[cite: 16].
-- [cite_start]📊 Monitored systems using **Prometheus & Grafana**, reducing downtime through proactive alerting[cite: 17].
-- [cite_start]⚙️ Automated system tasks using shell scripting, improving operational efficiency[cite: 17].
-- [cite_start]🤖 Fine-tuned and deployed AI models (ISIC / ISCO / ICD-10 classifiers) using Python and containerization[cite: 35].
-- [cite_start]☁️ Managed cloud infrastructure on **Microsoft Azure** and **AWS**[cite: 18].
-- [cite_start]🎓 Delivered **AZ-900 training workshops** for the Ministry of Digital Economy[cite: 19].
+- 🔧 Designed and implemented **CI/CD pipelines using Jenkins**, improving deployment speed and reliability[cite: 15].
+- 🐳 Containerized applications using **Docker**, managed workloads via **Docker Swarm** and **Kubernetes**[cite: 16].
+- 📊 Monitored systems using **Prometheus & Grafana**, reducing downtime through proactive alerting[cite: 17].
+- ⚙️ Automated system tasks using shell scripting, improving operational efficiency[cite: 17].
+- 🤖 Fine-tuned and deployed AI models (ISIC / ISCO / ICD-10 classifiers) using Python and containerization[cite: 35].
+- ☁️ Managed cloud infrastructure on **Microsoft Azure** and **AWS**[cite: 18].
+- 🎓 Delivered **AZ-900 training workshops** for the Ministry of Digital Economy[cite: 19].
 
 ---
 
@@ -91,25 +91,25 @@ I am a **DevOps & MLOps Engineer** with over 3 years of experience in designing,
 
 | Badge | Certification |
 |-------|--------------|
-| ☁️ | [cite_start]AWS Certified Cloud Practitioner **(CLF-C02)** [cite: 51] |
-| ☁️ | [cite_start]Microsoft Azure Fundamentals **(AZ-900)** [cite: 51] |
-| 💼 | [cite_start]Microsoft 365 Fundamentals **(MS-900)** [cite: 51] |
-| 🤖 | [cite_start]Google Generative AI Leader **(GAIL)** [cite: 52] |
-| 🎓 | [cite_start]Training of Trainers **(TOT)** [cite: 52] |
+| ☁️ | AWS Certified Cloud Practitioner **(CLF-C02)** [cite: 51] |
+| ☁️ | Microsoft Azure Fundamentals **(AZ-900)** [cite: 51] |
+| 💼 | Microsoft 365 Fundamentals **(MS-900)** [cite: 51] |
+| 🤖 | Google Generative AI Leader **(GAIL)** [cite: 52] |
+| 🎓 | Training of Trainers **(TOT)** [cite: 52] |
 
 ---
 
 ## 🎓 Education
 
-[cite_start]**Bachelor of Engineering — Electrical Engineering** *(GPA: Very Good)* [cite: 47, 48]
+**Bachelor of Engineering — Electrical Engineering** *(GPA: Very Good)* [cite: 47, 48]
 University of Jordan — Amman, Jordan &nbsp;|&nbsp; [cite_start]*2017 – 2022* [cite: 46, 49]
 
 ---
 
 ## 🌍 Languages
 
-- [cite_start]🇸🇦 **Arabic** — Native / Fluent [cite: 54]
-- [cite_start]🇬🇧 **English** — Intermediate (Improving toward professional proficiency) [cite: 55]
+- 🇸🇦 **Arabic** — Native / Fluent [cite: 54]
+- 🇬🇧 **English** — Intermediate (Improving toward professional proficiency) [cite: 55]
 
 ---
 
